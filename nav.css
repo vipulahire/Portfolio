@@ -8,48 +8,6 @@ body {
   font-size: 17px;
 }
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  width: 100%; 
-  height: 122%;
-}
-
-.content {
-  position: fixed;
-  background: rgba(0, 0, 0, 0.5);
-  color: #f1f1f1;
-  width: 100%;
-  height: 100%;
-  padding: 20px;
-}
-
-ul {
-  list-style-type: none;
-  margin: 2%;
-  padding: 0;
-  overflow: hidden;
-  background-color: rgb(37, 37, 190);
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  padding: 8px;
-  color: white;
-  text-align: center;
-  padding: 15px 20px;
-  text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-  }
-
 .image{
   float: left;
   margin: 30px;
@@ -57,7 +15,5 @@ li a:hover {
   height: 350px;
 }
 
-.name{
-  text-align: center;
-}
+
 
